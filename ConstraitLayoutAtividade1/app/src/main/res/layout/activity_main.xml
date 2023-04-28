@@ -8,10 +8,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="0dp"
-        android:layout_height="256dp"
+        android:layout_width="422dp"
+        android:layout_height="261dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.545"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/celular" />
@@ -60,6 +60,7 @@
         android:layout_marginStart="@dimen/dimensao1"
         android:layout_marginTop="@dimen/dimensao2"
         android:layout_marginEnd="@dimen/dimensao1"
+        android:justificationMode="inter_word"
         android:gravity="fill"
         android:text="@string/textViewTexto"
         app:layout_constraintEnd_toEndOf="parent"
