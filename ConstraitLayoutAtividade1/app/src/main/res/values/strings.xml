@@ -6,4 +6,5 @@
     <string name="textViewTexto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacinia iaculis ultricies. Curabitur mi augue, condimentum in eros vitae, pretium facilisis neque. Phasellus fringilla nunc vel neque imperdiet posuere. Nam nec nibh sit amet ex elementum imperdiet a cursus urna. Suspendisse quis mattis velit. Curabitur molestie dui nec orci vestibulum, sit amet bibendum purus efficitur. Cras enim libero, eleifend sit amet ligula eu, suscipit tincidunt nunc.</string>
     <string name="buttonAnterior">Anterior</string>
     <string name="buttonProximo">Próximo</string>
+
 </resources>
